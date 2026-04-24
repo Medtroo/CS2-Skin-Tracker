@@ -1,0 +1,134 @@
+[
+  {
+    "name": "AK-47 | Redline",
+    "price": "$125.40",
+    "change": "+4.2%",
+    "rarity": "Classified",
+    "wear": "Field-Tested",
+    "collection": "The Phoenix Collection",
+    "type": "Rifle",
+    "floatValue": "0.18",
+    "statTrak": false
+  },
+  {
+    "name": "AWP | Asiimov",
+    "price": "$210.75",
+    "change": "-1.8%",
+    "rarity": "Covert",
+    "wear": "Battle-Scarred",
+    "collection": "The Phoenix Collection",
+    "type": "Sniper Rifle",
+    "floatValue": "0.62",
+    "statTrak": true
+  },
+  {
+    "name": "M4A4 | Howl",
+    "price": "$4,850.00",
+    "change": "+2.1%",
+    "rarity": "Contraband",
+    "wear": "Factory New",
+    "collection": "The Huntsman Collection",
+    "type": "Rifle",
+    "floatValue": "0.03",
+    "statTrak": false
+  },
+  {
+    "name": "Karambit | Doppler",
+    "price": "$1,920.30",
+    "change": "+0.9%",
+    "rarity": "Covert",
+    "wear": "Factory New",
+    "collection": "The Chroma Collection",
+    "type": "Knife",
+    "floatValue": "0.01",
+    "statTrak": false
+  },
+  {
+    "name": "Desert Eagle | Printstream",
+    "price": "$92.10",
+    "change": "+1.4%",
+    "rarity": "Covert",
+    "wear": "Minimal Wear",
+    "collection": "The Fracture Collection",
+    "type": "Pistol",
+    "floatValue": "0.09",
+    "statTrak": false
+  },
+  {
+    "name": "USP-S | Kill Confirmed",
+    "price": "$88.90",
+    "change": "-0.6%",
+    "rarity": "Covert",
+    "wear": "Field-Tested",
+    "collection": "The Shadow Collection",
+    "type": "Pistol",
+    "floatValue": "0.21",
+    "statTrak": true
+  },
+  {
+    "name": "Glock-18 | Fade",
+    "price": "$1,540.00",
+    "change": "+3.5%",
+    "rarity": "Restricted",
+    "wear": "Factory New",
+    "collection": "The Assault Collection",
+    "type": "Pistol",
+    "floatValue": "0.02",
+    "statTrak": false
+  },
+  {
+    "name": "AK-47 | Vulcan",
+    "price": "$740.20",
+    "change": "+1.1%",
+    "rarity": "Covert",
+    "wear": "Minimal Wear",
+    "collection": "The Huntsman Collection",
+    "type": "Rifle",
+    "floatValue": "0.08",
+    "statTrak": false
+  },
+  {
+    "name": "M4A1-S | Blue Phosphor",
+    "price": "$690.00",
+    "change": "+2.7%",
+    "rarity": "Classified",
+    "wear": "Factory New",
+    "collection": "The Control Collection",
+    "type": "Rifle",
+    "floatValue": "0.01",
+    "statTrak": false
+  },
+  {
+    "name": "Sport Gloves | Vice",
+    "price": "$11,250.00",
+    "change": "+0.5%",
+    "rarity": "Extraordinary",
+    "wear": "Minimal Wear",
+    "collection": "Glove Case",
+    "type": "Gloves",
+    "floatValue": "0.12",
+    "statTrak": false
+  },
+  {
+    "name": "Operation Breakout Weapon Case",
+    "price": "$9.20",
+    "change": "+0.8%",
+    "rarity": "Base Grade",
+    "wear": "N/A",
+    "collection": "Operation Breakout",
+    "type": "Case",
+    "floatValue": "N/A",
+    "statTrak": false
+  },
+  {
+    "name": "Spectrum 2 Case",
+    "price": "$1.10",
+    "change": "-0.2%",
+    "rarity": "Base Grade",
+    "wear": "N/A",
+    "collection": "Spectrum 2",
+    "type": "Case",
+    "floatValue": "N/A",
+    "statTrak": false
+  }
+]
